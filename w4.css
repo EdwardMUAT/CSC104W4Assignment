@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
+
+p{
+    margin: 20px;
+    padding: 10px;
+    font-size: x-large;
+}
+
+/* this is a custom class- custom classes start with a  .
+use this to create a semi transparent box so it is easier to read the text*/
+.content{
+    background-color: rgba(0,0,0,0.6);
+    padding: 20px;
+    border-radius: 10px;
+}

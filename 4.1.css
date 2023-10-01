@@ -1,0 +1,23 @@
+body{
+    background-color: lightgreen;
+    border: 20px;
+    border-radius: 10px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+h1{
+    color: black;
+}
+
+p{
+    color: black;
+    font-size: x-large;
+}
+
+.content{
+    background-color: rgba(90, 109, 69, 0.6);
+    padding: 30px;
+    border-radius: 50px;
+}
